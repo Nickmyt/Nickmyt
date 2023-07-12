@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Nick
-I am a fourth year Informatics Student at the University of Piraeus.   
+### Hi there 👋, my name is Nickolaos
+I am a fifth year Informatics Student at the University of Piraeus, need to finish thesis.   
 
 - 🔭 I’m currently working on my Thesis 
-- 🌱 I’m currently learning Solidity 
+- 🌱 I’m currently working and figuring stuff out.
 - 📫 How to reach me: nikmyttas2@gmail.com 
 - ⚡ Fun fact: V2hhdCdzIElLRUEncyBmYXZvdXJpdGUgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2U/CgpBc3NlbWJseQ== 
 
