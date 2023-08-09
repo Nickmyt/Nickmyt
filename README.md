@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nickolaos
+### Hi there 👋, my name is Nikolaos
 I am a fifth year Informatics Student at the University of Piraeus, need to finish thesis.   
 
 - 🔭 I’m currently working on my Thesis 
