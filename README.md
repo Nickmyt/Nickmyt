@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Nikolaos
-I am a fifth year Informatics Student at the University of Piraeus, need to finish thesis.   
+I am a sixth year Informatics Student at the University of Piraeus, my thesis is the bane of my existance.   
 
 - 🔭 I’m currently working on my Thesis 
 - 🌱 I’m currently working and figuring stuff out.
