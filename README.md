@@ -2,8 +2,8 @@
 I am a sixth year Informatics Student at the University of Piraeus, my thesis is the bane of my existance.   
 
 - 🔭 I’m currently working on my Thesis 
-- 🌱 I’m currently working and figuring stuff out.
-- 📫 How to reach me: nikmyttas2@gmail.com 
+- 🌱 I’m currently working and not tryna quit
+- 📫 How to reach me: don't , leave a comment on a repo
 - ⚡ Fun fact: V2hhdCdzIElLRUEncyBmYXZvdXJpdGUgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2U/CgpBc3NlbWJseQ== 
 
 
